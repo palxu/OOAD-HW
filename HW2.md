@@ -25,3 +25,4 @@
 >* UML绘图工具练习（提交贴图，必须使用 UMLet）
 * 请在 参考书2 或 教材 中选择一个类图（给出参考书页码图号）
 ![](https://github.com/palxu/OOAD-HW/blob/master/UML.png)
+> 参考：课本P6 图1-3 骰子游戏的局部领域模型
