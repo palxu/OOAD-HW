@@ -21,3 +21,4 @@
 >* 每个人的任务是1-2项
 >* 至少包含一个团队活动任务
 ![](https://github.com/palxu/OOAD-HW/blob/master/kanban.png)
+![](https://github.com/palxu/OOAD-HW/blob/master/kanban2.png)
