@@ -26,8 +26,8 @@
 
 #### 2.建模联系题
 ##### 选择2-3个你熟悉的类似业务的在线服务系统（或移动 APP），如定旅馆（携程、去哪儿等）、定电影票、背单词APP等，分别绘制它们用例图。
-![](https://github.com/palxu/OOAD-HW/blob/master/photo/1.png)
-![](https://github.com/palxu/OOAD-HW/blob/master/photo/2.png)
+![](photo/1.png)
+![](photo/2.png)
 
 ##### 1.为什么相似系统的用例图是相似的？
 >相似系统面对相似的参与者和相似的需求与架构设计，其产生的场景和用例大部分都有相近之处。有些系统所依赖的子系统也是业界通用的。
