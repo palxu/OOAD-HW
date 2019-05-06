@@ -29,4 +29,5 @@ Confirmation(ID/Key, PaymentID/Fkey)
 ![](/photo/Make_Reservation_State_Chart.png)
 
 **Payment State Chart**
+
 ![](/photo/Payment_State_Chart.png)
